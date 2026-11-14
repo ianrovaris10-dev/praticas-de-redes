@@ -1,5 +1,5 @@
 
-# Aula 02 - Fusão de Fibra Óptica no SENAI
+# Aula 01 - Fusão de Fibra Óptica no SENAI
 
 ## Objetivo
 Conhecer os processos de preparação, fusão e testes de cabos de fibra óptica, compreendendo sua aplicação na transmissão de dados.
